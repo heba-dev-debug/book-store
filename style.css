@@ -111,6 +111,7 @@ div button {
   padding-top: .9375rem;
   margin-left: 8rem;
 }
+/* Section a5 layout: image and text two-column design */
 #a5 {
   flex: 1;
   max-width: 50%;
