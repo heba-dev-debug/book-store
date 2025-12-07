@@ -124,6 +124,7 @@ div button {
   width: 100%;
   
 }
+/* Section bb: cards container and flex layout */
 #bb {
   display: flex;
   justify-content: flex-start;
