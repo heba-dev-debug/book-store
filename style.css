@@ -5,6 +5,7 @@ body {
   width: 100%;
   box-sizing: border-box;
 }
+/* Header section styling */
 .header {
   display: flex;
   flex-direction: column;
